@@ -1,4 +1,3 @@
-
 package queuesactivity;
 
 import java.util.LinkedList;
